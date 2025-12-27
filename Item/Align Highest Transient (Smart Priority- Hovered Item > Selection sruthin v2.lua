@@ -1,5 +1,5 @@
 -- ReaScript Name: Align Highest Transient (Smart Priority: Hovered Item > Selection) to Edit Cursor + Crossfade + Auto-Select Hovered Item
--- Author: Reaper DAW Ultimate Assistant
+-- Author:SGM
 -- Version: 2.5
 -- Description:
 --   Aligns the highest transient of either the hovered item or selected item(s) to the edit cursor, ensuring smooth crossfades by mimicking Reaper's native overlap handling.
