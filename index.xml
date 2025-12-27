@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="SAM" commit="b3f875263d194be32283695648dd35c7e018c8f6">
+<index version="1" name="SAM" commit="e76c18f170c57e5903b35f44d9ff3de45e5dee7a">
   <category name="Chirpity">
-    <reapack name="Align Highest Transient (Smart Priority- Hovered Item &gt; Selection sruthin v2.lua" type="script" desc="Align Highest Transient (Smart Priority: Hovered Item &gt; Selection) to Edit Cursor + Crossfade + Auto-Select Hovered Item">
-      <version name="2.5" author="Reaper DAW Ultimate Assistant" time="2025-12-27T09:31:23Z">
-        <source main="main">https://github.com/SGMscripts/SGMS/raw/0eda83c9b8c5d93745d784b8709b8e77433ae248/Chirpity/Align%20Highest%20Transient%20(Smart%20Priority-%20Hovered%20Item%20%3E%20Selection%20sruthin%20v2.lua</source>
-      </version>
-    </reapack>
     <reapack name="Chirpity analysis results to reaper regions SGM .lua" type="script">
       <metadata>
         <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
